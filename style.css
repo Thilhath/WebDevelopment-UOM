@@ -1,0 +1,40 @@
+.tag{
+    color: blueviolet;
+    font-style: italic;
+}
+
+img{
+    float: right;
+}
+
+.pl{
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 150px;
+}
+table{
+    width: 100%;
+    border: 1px solid black;
+}
+td,th{
+    text-align: left;
+    padding: auto;
+}
+
+footer{
+    font-size: 10p;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    background-color: orange;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    width: 100%;
+    padding: 3px;
+    position: fixed;
+}
+
+body{
+    background-color: #e6f3ff;
+    padding: 50px;
+}
